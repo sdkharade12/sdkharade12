@@ -6,9 +6,7 @@
 
 - 🌱 I'm currently learning **Python for AI engineering, machine learning, deep learning, LLMs, RAG and DSA in Python.**
 
-- 👯 I'm looking to collaborate on **Open-source AI/ML projects, Python tools, and developer-focused applications.
-
-**
+- 👯 I'm looking to collaborate on **Open-source AI/ML projects, Python tools, and developer-focused applications.**
 
 - 🤝 I'm looking for help with **Building practical AI systems, model optimization, and deploying machine learning applications.**
 
