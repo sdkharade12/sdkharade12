@@ -2,10 +2,6 @@
 
 ### Passionate about AI, Machine Learning, and Building Useful Things
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdkharade12&label=Profile views&color=0e75b6&style=flat" alt="sdkharade12" /> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/kharade0508" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/kharade0508?logo=twitter&style=for-the-badge" alt="https://x.com/kharade0508" /></a> </p>
-
 - 🔭 I'm currently working on **AI engineering projects and exploring local LLMs, GPU acceleration, and retrieval-augmented generation (RAG).**
 
 - 🌱 I'm currently learning **Python for AI engineering, machine learning, deep learning, LLMs, RAG and DSA in Python.**
